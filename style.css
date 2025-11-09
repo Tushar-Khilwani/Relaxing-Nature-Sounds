@@ -1,5 +1,6 @@
 img{
-    height: 200px;
+    height: 10rem;
+    width: 20rem;
 }
 body{
     background-color: #FFD3D5;
@@ -7,4 +8,8 @@ body{
 h1{
     background-color: #E49BA6;
     text-align: center;
+
+}
+h2{
+    font-weight : Normal;
 }
