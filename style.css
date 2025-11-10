@@ -3,13 +3,15 @@ img{
     width: 20rem;
 }
 body{
-    background-color: #FFD3D5;
+    background-color: #e6e6e6;
+    
 }
 h1{
-    background-color: #E49BA6;
+    
+    background-color:#a9a395 ;
     text-align: center;
-
+    color: #e6e6e6;
 }
 h2{
-    font-weight : Normal;
+    font-weight: normal;
 }
